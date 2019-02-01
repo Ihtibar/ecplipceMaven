@@ -1,4 +1,4 @@
-public class Map2 {
+public class kkkkk {
 	public static void main(String[] args) {
 		 Map<Long, String> product= new HashMap<>();
 		 product.put(125L, "book");
