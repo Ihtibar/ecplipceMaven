@@ -5,6 +5,9 @@ public class IhtibarCases {
 		System.out.println("Hello gitHub");
 		System.out.println("second test");
 		System.out.println("men ");
+		for(int i = 0; i <10; i++) {
+			
+		}
 	}
 
 }
